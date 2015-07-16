@@ -1,0 +1,3 @@
+Time	Model	Score
+07/15	Basic Random Forest	0.273211
+07/16	Basic Gradient Boosting	0.361048
